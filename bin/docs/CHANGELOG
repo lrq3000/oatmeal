@@ -1,0 +1,29 @@
+0.01 (demiurge)
+	* Initial project creation.
+	* Added custom main menu/console background.
+	* Added basic mod framework.
+	* Added weapon ROF cvars.
+	* Started documentation.
+	* Added some Machine Gun related cvars.
+	* Added some Chaingun related cvars.
+	* Added some Lightning Gun related cvars.
+	* Added some damage related cvars.
+	* Added some knockback related cvars.
+	* Unreleased.
+
+0.05 (valentine)
+	* Added some player spawn weapons cvar.
+	* Added some Shotgun related cvars.
+	* Added Gauntlet and Grappling Hook related cvars.
+	* Added some Plasma Gun related cvars.
+	* Added some Grenade Launcher related cvars.
+	* Added some Railgun related cvars.
+	* Added, well, a whole lot of weapon cvars.
+	* Added many item spawning cvars.
+	* Unreleased.
+
+0.51 (vulcan)
+	* Added locational damage cvars.
+	* Added ammo dropping.
+	* Initial release.
+
